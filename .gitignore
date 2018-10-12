@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.db
+*.log
+*.bin
+*.bin.gz
+*.jpg

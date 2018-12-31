@@ -4,3 +4,5 @@
 *.bin
 *.bin.gz
 *.jpg
+*.model
+*.pkl
